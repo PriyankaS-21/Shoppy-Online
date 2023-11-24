@@ -2,6 +2,7 @@
 
 ShopEase is a cutting-edge online shopping application developed using the powerful React framework powered by vite, our app delivers a responsive and intuitive interface, ensuring you can browse and shop with ease, whether you're on your computer or mobile device.
 
+Demo Link : https://shoppy-in.web.app/
 
 ## Table of Contents
 
